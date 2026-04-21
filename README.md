@@ -8,13 +8,15 @@ Tools: Jupyter, MySQL, PostgreSQL, Excel, Power BI, ChatGPT
 
 # Projects:
 I have uploaded all my projects from which I have derived useful insights using data analyst tools.
+# Internship
+I have done successfully my internship program with 2 projects and get certificate after completion.
 # Experience
 Designation: Store Incharge
 
 Company: Ahir Group
 
-Duration: 2 Months
+Duration: 3 Months
 
-Date: 26/09/2025-Present
+Date: 26/09/2025-31/12/2025
 
 Work: My responsibility in the company is to maintain the store, collect data on the existing stock of materials, provide the requirement of required materials, and do proper reporting of how much of each material is being used for which work and work place.
